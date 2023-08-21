@@ -5,3 +5,6 @@
 
 ![Top view of UART Bus Board V2](assets/UART_Bus_Board_V2_Top.png)
 ![Bottom view of UART Bus Board V2](assets/UART_Bus_Board_V2_Bottom.png)
+
+# Block Diagram
+![UART Bus Board V2 Block Diagram](assets/block-diagram.drawio.png)
